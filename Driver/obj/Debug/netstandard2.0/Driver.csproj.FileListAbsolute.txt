@@ -1,0 +1,10 @@
+C:\Users\deb.jagadeba\source\repos\DemoApp\Driver\bin\Debug\netstandard2.0\Driver.deps.json
+C:\Users\deb.jagadeba\source\repos\DemoApp\Driver\bin\Debug\netstandard2.0\Driver.dll
+C:\Users\deb.jagadeba\source\repos\DemoApp\Driver\obj\Debug\netstandard2.0\Driver.csproj.CoreCompileInputs.cache
+C:\Users\deb.jagadeba\source\repos\DemoApp\Driver\obj\Debug\netstandard2.0\Driver.AssemblyInfoInputs.cache
+C:\Users\deb.jagadeba\source\repos\DemoApp\Driver\obj\Debug\netstandard2.0\Driver.AssemblyInfo.cs
+C:\Users\deb.jagadeba\source\repos\DemoApp\Driver\bin\Debug\netstandard2.0\Driver.pdb
+C:\Users\deb.jagadeba\source\repos\DemoApp\Driver\obj\Debug\netstandard2.0\Driver.dll
+C:\Users\deb.jagadeba\source\repos\DemoApp\Driver\obj\Debug\netstandard2.0\Driver.pdb
+C:\Users\deb.jagadeba\source\repos\DemoApp\Driver\bin\Debug\netstandard2.0\chromedriver.exe
+C:\Users\deb.jagadeba\source\repos\DemoApp\Driver\obj\Debug\netstandard2.0\Driver.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+c:\users\deb.jagadeba\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp2.0\DemoApp.deps.json
+c:\users\deb.jagadeba\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp2.0\DemoApp.runtimeconfig.json
+c:\users\deb.jagadeba\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp2.0\DemoApp.runtimeconfig.dev.json
+c:\users\deb.jagadeba\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp2.0\DemoApp.dll
+c:\users\deb.jagadeba\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp2.0\DemoApp.pdb
+c:\users\deb.jagadeba\source\repos\DemoApp\DemoApp\obj\Debug\netcoreapp2.0\DemoApp.csproj.CoreCompileInputs.cache
+c:\users\deb.jagadeba\source\repos\DemoApp\DemoApp\obj\Debug\netcoreapp2.0\DemoApp.AssemblyInfoInputs.cache
+c:\users\deb.jagadeba\source\repos\DemoApp\DemoApp\obj\Debug\netcoreapp2.0\DemoApp.AssemblyInfo.cs
+c:\users\deb.jagadeba\source\repos\DemoApp\DemoApp\obj\Debug\netcoreapp2.0\DemoApp.dll
+c:\users\deb.jagadeba\source\repos\DemoApp\DemoApp\obj\Debug\netcoreapp2.0\DemoApp.pdb
+C:\Users\deb.jagadeba\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp2.0\Driver.dll
+C:\Users\deb.jagadeba\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp2.0\Driver.pdb
+C:\Users\deb.jagadeba\source\repos\DemoApp\DemoApp\obj\Debug\netcoreapp2.0\DemoApp.csprojAssemblyReference.cache
+C:\Users\deb.jagadeba\source\repos\DemoApp\DemoApp\obj\Debug\netcoreapp2.0\DemoApp.csproj.CopyComplete
+C:\Users\deb.jagadeba\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp2.0\chromedriver.exe
